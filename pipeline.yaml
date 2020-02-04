@@ -18,7 +18,7 @@ objects:
       type: Git
       git:
         uri: ${REPOSITORY_URI}
-        #uri: https://github.com/otatman/OpenShift-Jenkins-Lab
+        #uri: https://github.com/rakbar123/OpenShift-Jenkins-Lab
         ref: ${SOURCE_REF}
         #ref: master
       contextDir: ${APPLICATION_CONTEXT_DIR}
